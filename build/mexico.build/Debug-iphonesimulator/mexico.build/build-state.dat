@@ -1,0 +1,1487 @@
+Tmexico
+v7
+r0
+t277658789.278681
+cCheck dependencies
+cProcessInfoPlistFile /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Info.plist mexico-Info.plist
+cCompileXIB /Users/snagey/Desktop/Mexico-iPhone/MainWindow.xib
+cCompileXIB /Users/snagey/Desktop/Mexico-iPhone/MapView.xib
+cCpResource build/Debug-iphonesimulator/Mexico.app/103-map.png 103-map.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/53-house.png 53-house.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/05-shuffle.png 05-shuffle.png
+cCompileXIB /Users/snagey/Desktop/Mexico-iPhone/BrowseView.xib
+cCpResource build/Debug-iphonesimulator/Mexico.app/71-compass.png 71-compass.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/102-walk.png 102-walk.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/87-wineglass.png 87-wineglass.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/48-fork-and-knife.png 48-fork-and-knife.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/38-airplane.png 38-airplane.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/37-suitcase.png 37-suitcase.png
+cCpResource build/Debug-iphonesimulator/Mexico.app/06-magnifying-glass.png 06-magnifying-glass.png
+cCompileXIB /Users/snagey/Desktop/Mexico-iPhone/PinataView.xib
+cCompileXIB /Users/snagey/Desktop/Mexico-iPhone/SearchMainView.xib
+cCpResource build/Debug-iphonesimulator/Mexico.app/Mexico-Flag-256x256.png Mexico-Flag-256x256.png
+cProcessPCH /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch.gch mexico_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o /Users/snagey/Desktop/Mexico-iPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o /Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/../PinataViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/../SearchMainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico normal i386
+cGenerateDSYMFile /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app.dSYM /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico
+cTouch /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A0BC2A5000000000000017D
+t1242284709
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A12232A00000000001D2A20
+t1242702634
+s1911328
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004AA95C7E00000000000000EE
+t1252613246
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A7CC3D7000000000000017D
+t1249690583
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A7CC3E6000000000010EB60
+t1249690598
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/snagey/Desktop/Mexico-iPhone/05-shuffle.png
+c00000000497216F00000000000000164
+t1232213744
+s356
+
+N/Users/snagey/Desktop/Mexico-iPhone/06-magnifying-glass.png
+c00000000497216FE0000000000000184
+t1232213758
+s388
+
+N/Users/snagey/Desktop/Mexico-iPhone/102-walk.png
+c000000004AA700C400000000000001BD
+t1252458692
+s445
+
+N/Users/snagey/Desktop/Mexico-iPhone/103-map.png
+c000000004AA700CA00000000000001FB
+t1252458698
+s507
+
+N/Users/snagey/Desktop/Mexico-iPhone/37-suitcase.png
+c000000004972183A00000000000000E3
+t1232214074
+s227
+
+N/Users/snagey/Desktop/Mexico-iPhone/38-airplane.png
+c00000000497218440000000000000108
+t1232214084
+s264
+
+N/Users/snagey/Desktop/Mexico-iPhone/48-fork-and-knife.png
+c0000000049B4B99000000000000000D1
+t1236580752
+s209
+
+N/Users/snagey/Desktop/Mexico-iPhone/53-house.png
+c000000004AA5BA5C00000000000000CF
+t1252375132
+s207
+
+N/Users/snagey/Desktop/Mexico-iPhone/71-compass.png
+c000000004A26CC760000000000000164
+t1244056694
+s356
+
+N/Users/snagey/Desktop/Mexico-iPhone/87-wineglass.png
+c000000004A3E755A000000000000011B
+t1245607258
+s283
+
+N/Users/snagey/Desktop/Mexico-iPhone/BrowseView.xib
+c000000004AD8E0280000000000004D63
+t1255727144
+s19811
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/../PinataViewController.m
+c000000004AD8D56C0000000000000765
+t1255724396
+s1893
+i"PinataViewController.h"
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/../SearchMainViewController.m
+c000000004AD8C3AB000000000000058C
+t1255719851
+s1420
+i"SearchMainViewController.h"
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.h
+c000000004AD8DF0D00000000000000F6
+t1255726861
+s246
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.m
+c000000004AD8C29200000000000005B6
+t1255719570
+s1462
+i"BrowseViewController.h"
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.h
+c000000004AD8C3EF0000000000000104
+t1255719919
+s260
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.m
+c000000004AD8C2C700000000000005EB
+t1255719623
+s1515
+i"MapViewController.h"
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.h
+c000000004AD8C29200000000000001DB
+t1255719570
+s475
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.m
+c000000004AD8CDE500000000000003BC
+t1255722469
+s956
+i"mexicoAppDelegate.h"
+
+N/Users/snagey/Desktop/Mexico-iPhone/MainWindow.xib
+c000000004AD8DDED000000000000798F
+t1255726573
+s31119
+
+N/Users/snagey/Desktop/Mexico-iPhone/MapView.xib
+c000000004AD8C3230000000000003FEB
+t1255719715
+s16363
+
+N/Users/snagey/Desktop/Mexico-iPhone/Mexico-Flag-256x256.png
+c000000004AD8DFCD0000000000007D9E
+t1255727053
+s32158
+
+N/Users/snagey/Desktop/Mexico-iPhone/PinataView.xib
+c000000004AD8D4B100000000000042D4
+t1255724209
+s17108
+
+N/Users/snagey/Desktop/Mexico-iPhone/PinataViewController.h
+c000000004AD8D4C000000000000000F1
+t1255724224
+s241
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/Mexico-iPhone/SearchMainView.xib
+c000000004AD8C3C40000000000004172
+t1255719876
+s16754
+
+N/Users/snagey/Desktop/Mexico-iPhone/SearchMainViewController.h
+c000000004AD8C3AB00000000000000F8
+t1255719851
+s248
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app
+t1255965989
+s782
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app.dSYM
+t1255965989
+s102
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/05-shuffle.png
+t1255699357
+s356
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/06-magnifying-glass.png
+t1255699357
+s388
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/102-walk.png
+t1255699357
+s445
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/103-map.png
+t1255699357
+s507
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/37-suitcase.png
+t1255699357
+s227
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/38-airplane.png
+t1255699357
+s264
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/48-fork-and-knife.png
+t1255699357
+s209
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/53-house.png
+t1255699357
+s207
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/71-compass.png
+t1255699357
+s356
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/87-wineglass.png
+t1255699357
+s283
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/BrowseView.nib
+t1255957722
+s1671
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Info.plist
+t1255727003
+s606
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/MainWindow.nib
+t1255726612
+s2659
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/MapView.nib
+t1255719878
+s1173
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico
+t1255965989
+s22564
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico-Flag-256x256.png
+t1255727097
+s32158
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/PinataView.nib
+t1255724253
+s1178
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/PkgInfo
+t1255727003
+s8
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/SearchMainView.nib
+t1255719879
+s1178
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o
+t1255965988
+s31388
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o
+t1255965988
+s29868
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/Mexico.LinkFileList
+c000000004ADC8522000000000000030C
+t1255965986
+s780
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o
+t1255965988
+s33316
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o
+t1255965988
+s29968
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o
+t1255965988
+s5936
+
+N/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o
+t1255965988
+s40820
+
+N/Users/snagey/Desktop/Mexico-iPhone/main.m
+c000000004AD8C2920000000000000169
+t1255719570
+s361
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/Mexico-iPhone/mexico_Prefix.pch
+c000000004AD86DA300000000000000B5
+t1255697827
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/05-shuffle.png
+c00000000497216F00000000000000164
+t1232213744
+s356
+
+N/Users/snagey/Desktop/mexico/06-magnifying-glass.png
+c00000000497216FE0000000000000184
+t1232213758
+s388
+
+N/Users/snagey/Desktop/mexico/102-walk.png
+c000000004AA700C400000000000001BD
+t1252458692
+s445
+
+N/Users/snagey/Desktop/mexico/103-map.png
+c000000004AA700CA00000000000001FB
+t1252458698
+s507
+
+N/Users/snagey/Desktop/mexico/37-suitcase.png
+c000000004972183A00000000000000E3
+t1232214074
+s227
+
+N/Users/snagey/Desktop/mexico/38-airplane.png
+c00000000497218440000000000000108
+t1232214084
+s264
+
+N/Users/snagey/Desktop/mexico/48-fork-and-knife.png
+c0000000049B4B99000000000000000D1
+t1236580752
+s209
+
+N/Users/snagey/Desktop/mexico/53-house.png
+c000000004AA5BA5C00000000000000CF
+t1252375132
+s207
+
+N/Users/snagey/Desktop/mexico/71-compass.png
+c000000004A26CC760000000000000164
+t1244056694
+s356
+
+N/Users/snagey/Desktop/mexico/87-wineglass.png
+c000000004A3E755A000000000000011B
+t1245607258
+s283
+
+N/Users/snagey/Desktop/mexico/BrowseView.xib
+c000000004AD8E0280000000000004D63
+t1255727144
+s19811
+
+N/Users/snagey/Desktop/mexico/Classes/../PinataViewController.m
+c000000004AD8D56C0000000000000765
+t1255724396
+s1893
+i"PinataViewController.h"
+
+N/Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m
+c000000004AD8C3AB000000000000058C
+t1255719851
+s1420
+i"SearchMainViewController.h"
+
+N/Users/snagey/Desktop/mexico/Classes/BrowseViewController.h
+c000000004AD8DF0D00000000000000F6
+t1255726861
+s246
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/Classes/BrowseViewController.m
+c000000004AD8C29200000000000005B6
+t1255719570
+s1462
+i"BrowseViewController.h"
+
+N/Users/snagey/Desktop/mexico/Classes/FirstViewController.h
+c000000004AD86DA300000000000000EA
+t1255697827
+s234
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/Classes/FirstViewController.m
+c000000004AD86DA300000000000005AF
+t1255697827
+s1455
+i"FirstViewController.h"
+
+N/Users/snagey/Desktop/mexico/Classes/MapViewController.h
+c000000004AD8C3EF0000000000000104
+t1255719919
+s260
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/snagey/Desktop/mexico/Classes/MapViewController.m
+c000000004AD8C2C700000000000005EB
+t1255719623
+s1515
+i"MapViewController.h"
+
+N/Users/snagey/Desktop/mexico/Classes/PinataView.h
+c000000004AD8CBA800000000000000D2
+t1255721896
+s210
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/Classes/PinataView.m
+c000000004AD8CF8C000000000000031C
+t1255722892
+s796
+i"PinataView.h"
+
+N/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.h
+c000000004AD8C29200000000000001DB
+t1255719570
+s475
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m
+c000000004AD8CDE500000000000003BC
+t1255722469
+s956
+i"mexicoAppDelegate.h"
+
+N/Users/snagey/Desktop/mexico/FirstView.xib
+c000000004AD899B60000000000004C1D
+t1255709110
+s19485
+
+N/Users/snagey/Desktop/mexico/MainWindow.xib
+c000000004AD8DDED000000000000798F
+t1255726573
+s31119
+
+N/Users/snagey/Desktop/mexico/MapView.xib
+c000000004AD8C3230000000000003FEB
+t1255719715
+s16363
+
+N/Users/snagey/Desktop/mexico/MapsView.xib
+c000000004AD86DA300000000000022EE
+t1255697827
+s8942
+
+N/Users/snagey/Desktop/mexico/Mexico-Flag-256x256.png
+c000000004AD8DFCD0000000000007D9E
+t1255727053
+s32158
+
+N/Users/snagey/Desktop/mexico/PinataView.xib
+c000000004AD8D4B100000000000042D4
+t1255724209
+s17108
+
+N/Users/snagey/Desktop/mexico/PinataViewController.h
+c000000004AD8D4C000000000000000F1
+t1255724224
+s241
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/PinataViewController.m
+c000000004AD8C33D0000000000000580
+t1255719741
+s1408
+i"PinataViewController.h"
+
+N/Users/snagey/Desktop/mexico/PinataViewController.xib
+c000000004AD8C33D0000000000001877
+t1255719741
+s6263
+
+N/Users/snagey/Desktop/mexico/SearchMainView.xib
+c000000004AD8C3C40000000000004172
+t1255719876
+s16754
+
+N/Users/snagey/Desktop/mexico/SearchMainViewController.h
+c000000004AD8C3AB00000000000000F8
+t1255719851
+s248
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/SearchMainViewController.m
+c000000004AD8C3AB000000000000058C
+t1255719851
+s1420
+i"SearchMainViewController.h"
+
+N/Users/snagey/Desktop/mexico/SearchMainViewController.xib
+c000000004AD8C3AB0000000000001883
+t1255719851
+s6275
+
+N/Users/snagey/Desktop/mexico/SecondView.xib
+c000000004AD86DA300000000000022EE
+t1255697827
+s8942
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app
+t1255957722
+s782
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app.dSYM
+t1255726863
+s102
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/05-shuffle.png
+t1255699357
+s356
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/06-magnifying-glass.png
+t1255699357
+s388
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/102-walk.png
+t1255699357
+s445
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/103-map.png
+t1255699357
+s507
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/37-suitcase.png
+t1255699357
+s227
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/38-airplane.png
+t1255699357
+s264
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/48-fork-and-knife.png
+t1255699357
+s209
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/53-house.png
+t1255699357
+s207
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/71-compass.png
+t1255699357
+s356
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/87-wineglass.png
+t1255699357
+s283
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/BrowseView.nib
+t1255957722
+s1671
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Info.plist
+t1255727003
+s606
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/MainWindow.nib
+t1255726612
+s2659
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/MapView.nib
+t1255719878
+s1173
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico
+t1255726863
+s22480
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico-Flag-256x256.png
+t1255727097
+s32158
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/PinataView.nib
+t1255724253
+s1178
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/PkgInfo
+t1255727003
+s8
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/SearchMainView.nib
+t1255719879
+s1178
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app
+t1255726612
+s748
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app.dSYM
+t1255726205
+s102
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/05-shuffle.png
+t1255699357
+s356
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/06-magnifying-glass.png
+t1255699357
+s388
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/102-walk.png
+t1255699357
+s445
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/103-map.png
+t1255699357
+s507
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/37-suitcase.png
+t1255699357
+s227
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/38-airplane.png
+t1255699357
+s264
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/48-fork-and-knife.png
+t1255699357
+s209
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/53-house.png
+t1255699357
+s207
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/71-compass.png
+t1255699357
+s356
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/87-wineglass.png
+t1255699357
+s283
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/BrowseView.nib
+t1255726205
+s1671
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/FirstView.nib
+t1255709154
+s1676
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/Info.plist
+t1255699357
+s558
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/MainWindow.nib
+t1255726612
+s2659
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/MapView.nib
+t1255719878
+s1173
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/MapsView.nib
+t2
+s0
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/PinataView.nib
+t1255724253
+s1178
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/PinataViewController.nib
+t2
+s0
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/PkgInfo
+t1255699357
+s8
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/SearchMainView.nib
+t1255719879
+s1178
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/SearchMainViewController.nib
+t2
+s0
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/SecondView.nib
+t1255699357
+s1709
+
+N/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico
+t1255726205
+s22480
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o
+t1255726863
+s31372
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o
+t1255726751
+s29856
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/Mexico.LinkFileList
+c000000004AD8DE9F00000000000002E2
+t1255726751
+s738
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o
+t1255726751
+s33304
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o
+t1255726751
+s29952
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o
+t1255726751
+s5924
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o
+t1255726751
+s40804
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/BrowseViewController.o
+t1255726685
+s31372
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/FirstViewController.o
+t1255699359
+s29880
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/MapViewController.o
+t1255726685
+s29856
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/Mexico.LinkFileList
+c000000004AD8D22C00000000000002E2
+t1255723564
+s738
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataView.o
+t1255722892
+s11548
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataViewController.o
+t1255726685
+s33304
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/SearchMainViewController.o
+t1255726685
+s29952
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/main.o
+t1255726685
+s5924
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/mexico.LinkFileList
+c000000004AD8D22C00000000000002E2
+t1255723564
+s738
+
+N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/mexicoAppDelegate.o
+t1255726685
+s40804
+
+N/Users/snagey/Desktop/mexico/main.m
+c000000004AD8C2920000000000000169
+t1255719570
+s361
+i<UIKit/UIKit.h>
+
+N/Users/snagey/Desktop/mexico/mexico_Prefix.pch
+c000000004AD86DA300000000000000B5
+t1255697827
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-cpudllhkxirddwfbylawyiarvcmi/mexico_Prefix.pch.gch
+t1255719975
+s12961168
+
+N/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch.gch
+t1255965988
+s13034960
+
+N/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch.gch
+t1255726751
+s13034960
+
+Nmexico-Info.plist
+c000000004AD8DF970000000000000393
+t1255726999
+s915
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277658785#277658786#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277658788.632310
+e277658788.729092
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o
+x/Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.m277658788#277658788#0(0"0(0#0#66"/Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.m4300882208#1912"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -I/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch -c /Users/snagey/Desktop/Mexico-iPhone/Classes/BrowseViewController.m -o /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o /Users/snagey/Desktop/mexico/Classes/BrowseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419663.037207
+e277419663.083283
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o
+x/Users/snagey/Desktop/mexico/Classes/BrowseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/snagey/Desktop/mexico/Classes/BrowseViewController.m277419663#277419663#0(0"0(0#0#59"/Users/snagey/Desktop/mexico/Classes/BrowseViewController.m4300882208#1835"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/BrowseViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/BrowseViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277658788.675762
+e277658788.863290
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o
+x/Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.m277658788#277658788#0(0"0(0#0#63"/Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.m4300882208#1906"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -I/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch -c /Users/snagey/Desktop/Mexico-iPhone/Classes/MapViewController.m -o /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o /Users/snagey/Desktop/mexico/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419551.833122
+e277419551.891750
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o
+x/Users/snagey/Desktop/mexico/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/snagey/Desktop/mexico/Classes/MapViewController.m277419551#277419551#0(0"0(0#0#56"/Users/snagey/Desktop/mexico/Classes/MapViewController.m4300882208#1829"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/MapViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/../PinataViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277658788.729184
+e277658788.783782
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o
+x/Users/snagey/Desktop/Mexico-iPhone/Classes/../PinataViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/snagey/Desktop/Mexico-iPhone/Classes/../PinataViewController.m277658788#277658788#0(0"0(0#0#69"/Users/snagey/Desktop/Mexico-iPhone/Classes/../PinataViewController.m4300882208#1915"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -I/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch -c /Users/snagey/Desktop/Mexico-iPhone/Classes/../PinataViewController.m -o /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o /Users/snagey/Desktop/mexico/Classes/../PinataViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419551.887866
+e277419551.959608
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o
+x/Users/snagey/Desktop/mexico/Classes/../PinataViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/snagey/Desktop/mexico/Classes/../PinataViewController.m277419551#277419551#0(0"0(0#0#62"/Users/snagey/Desktop/mexico/Classes/../PinataViewController.m4300882208#1838"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/../PinataViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/PinataViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o /Users/snagey/Desktop/Mexico-iPhone/Classes/../SearchMainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277658788.783876
+e277658788.866894
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o
+x/Users/snagey/Desktop/Mexico-iPhone/Classes/../SearchMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/snagey/Desktop/Mexico-iPhone/Classes/../SearchMainViewController.m277658788#277658788#0(0"0(0#0#73"/Users/snagey/Desktop/Mexico-iPhone/Classes/../SearchMainViewController.m4300882208#1923"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -I/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch -c /Users/snagey/Desktop/Mexico-iPhone/Classes/../SearchMainViewController.m -o /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o /Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419551.891832
+e277419551.949950
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o
+x/Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m277419551#277419551#0(0"0(0#0#66"/Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m4300882208#1846"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/SearchMainViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o /Users/snagey/Desktop/Mexico-iPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277658788.378448
+e277658788.632227
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o
+x/Users/snagey/Desktop/Mexico-iPhone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/snagey/Desktop/Mexico-iPhone/main.m277658788#277658788#0(0"0(0#0#42"/Users/snagey/Desktop/Mexico-iPhone/main.m4300882208#1872"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -I/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch -c /Users/snagey/Desktop/Mexico-iPhone/main.m -o /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o /Users/snagey/Desktop/mexico/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419551.771284
+e277419551.821853
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o
+x/Users/snagey/Desktop/mexico/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/snagey/Desktop/mexico/main.m277419551#277419551#0(0"0(0#0#35"/Users/snagey/Desktop/mexico/main.m4300882208#1795"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/main.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/main.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o /Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277658788.379279
+e277658788.675673
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o
+x/Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.m277658788#277658788#0(0"0(0#0#63"/Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.m4300882208#1906"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -I/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch -c /Users/snagey/Desktop/Mexico-iPhone/Classes/mexicoAppDelegate.m -o /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419551.772556
+e277419551.832988
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o
+x/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m277419551#277419551#0(0"0(0#0#56"/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m4300882208#1829"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/mexicoAppDelegate.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/BrowseViewController.o /Users/snagey/Desktop/mexico/Classes/BrowseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419485.785667
+e277419485.869942
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/BrowseViewController.o
+x/Users/snagey/Desktop/mexico/Classes/BrowseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/snagey/Desktop/mexico/Classes/BrowseViewController.m277419485#277419485#0(0"0(0#0#59"/Users/snagey/Desktop/mexico/Classes/BrowseViewController.m4300882208#1835"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/BrowseViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/BrowseViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/FirstViewController.o /Users/snagey/Desktop/mexico/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277392159.106748
+e277392159.151714
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/FirstViewController.o
+x/Users/snagey/Desktop/mexico/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/snagey/Desktop/mexico/Classes/FirstViewController.m277392159#277392159#0(0"0(0#0#58"/Users/snagey/Desktop/mexico/Classes/FirstViewController.m4300882208#1833"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/FirstViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/MapViewController.o /Users/snagey/Desktop/mexico/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419485.810967
+e277419485.909922
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/MapViewController.o
+x/Users/snagey/Desktop/mexico/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/snagey/Desktop/mexico/Classes/MapViewController.m277419485#277419485#0(0"0(0#0#56"/Users/snagey/Desktop/mexico/Classes/MapViewController.m4300882208#1829"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/MapViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataView.o /Users/snagey/Desktop/mexico/Classes/PinataView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277415692.332305
+e277415692.512676
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataView.o
+x/Users/snagey/Desktop/mexico/Classes/PinataView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/snagey/Desktop/mexico/Classes/PinataView.m277415692#277415692#0(0"0(0#0#49"/Users/snagey/Desktop/mexico/Classes/PinataView.m4300882208#1815"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/PinataView.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataView.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataViewController.o /Users/snagey/Desktop/mexico/Classes/../PinataViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419485.870090
+e277419485.944636
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataViewController.o
+x/Users/snagey/Desktop/mexico/Classes/../PinataViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/snagey/Desktop/mexico/Classes/../PinataViewController.m277419485#277419485#0(0"0(0#0#62"/Users/snagey/Desktop/mexico/Classes/../PinataViewController.m4300882208#1838"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/../PinataViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataViewController.o /Users/snagey/Desktop/mexico/PinataViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277412909.917093
+e277412909.979173
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataViewController.o
+x/Users/snagey/Desktop/mexico/PinataViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/snagey/Desktop/mexico/PinataViewController.m277412909#277412909#0(0"0(0#0#51"/Users/snagey/Desktop/mexico/PinataViewController.m4300882208#1827"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/PinataViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/PinataViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/SearchMainViewController.o /Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419485.910014
+e277419485.965682
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/SearchMainViewController.o
+x/Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m277419485#277419485#0(0"0(0#0#66"/Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m4300882208#1846"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/../SearchMainViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/SearchMainViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/SearchMainViewController.o /Users/snagey/Desktop/mexico/SearchMainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277412909.958796
+e277412910.008780
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/SearchMainViewController.o
+x/Users/snagey/Desktop/mexico/SearchMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/snagey/Desktop/mexico/SearchMainViewController.m277412909#277412910#0(0"0(0#0#55"/Users/snagey/Desktop/mexico/SearchMainViewController.m4300882208#1835"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/SearchMainViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/SearchMainViewController.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/main.o /Users/snagey/Desktop/mexico/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419485.732108
+e277419485.785568
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/main.o
+x/Users/snagey/Desktop/mexico/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/snagey/Desktop/mexico/main.m277419485#277419485#0(0"0(0#0#35"/Users/snagey/Desktop/mexico/main.m4300882208#1795"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/main.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/main.o0#
+
+CCompileC build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/mexicoAppDelegate.o /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419485.733579
+e277419485.810869
+r1
+xCompileC
+xbuild/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/mexicoAppDelegate.o
+x/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m277419485#277419485#0(0"0(0#0#56"/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m4300882208#1829"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/mexicoAppDelegate.o0#
+
+CCompileXIB /Users/snagey/Desktop/Mexico-iPhone/BrowseView.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/Mexico-iPhone/MainWindow.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/Mexico-iPhone/MapView.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/Mexico-iPhone/PinataView.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/Mexico-iPhone/SearchMainView.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/mexico/BrowseView.xib
+s277650521.273859
+e277650522.217929
+r1
+xCompileXIB
+x/Users/snagey/Desktop/mexico/BrowseView.xib
+lSLF07#2@25"CompileXIB BrowseView.xib277650521#277650522#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/BrowseView.xib29555387957313644#511"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/BrowseView.nib /Users/snagey/Desktop/mexico/BrowseView.xib0#
+
+CCompileXIB /Users/snagey/Desktop/mexico/FirstView.xib
+s277401954.603333
+e277401954.909887
+r1
+xCompileXIB
+x/Users/snagey/Desktop/mexico/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib277401954#277401954#0(0"0(0#0#42"/Users/snagey/Desktop/mexico/FirstView.xib4300882208#509"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/FirstView.nib /Users/snagey/Desktop/mexico/FirstView.xib0#
+
+CCompileXIB /Users/snagey/Desktop/mexico/MainWindow.xib
+s277419412.047477
+e277419412.356183
+r1
+xCompileXIB
+x/Users/snagey/Desktop/mexico/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib277419412#277419412#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/MainWindow.xib4300882208#511"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/MainWindow.nib /Users/snagey/Desktop/mexico/MainWindow.xib0#
+
+CCompileXIB /Users/snagey/Desktop/mexico/MapView.xib
+s277412678.213717
+e277412678.477118
+r1
+xCompileXIB
+x/Users/snagey/Desktop/mexico/MapView.xib
+lSLF07#2@22"CompileXIB MapView.xib277412678#277412678#0(0"0(0#0#40"/Users/snagey/Desktop/mexico/MapView.xib4300882208#505"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/MapView.nib /Users/snagey/Desktop/mexico/MapView.xib0#
+
+CCompileXIB /Users/snagey/Desktop/mexico/MapsView.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/mexico/PinataView.xib
+s277417053.014131
+e277417053.286792
+r1
+xCompileXIB
+x/Users/snagey/Desktop/mexico/PinataView.xib
+lSLF07#2@25"CompileXIB PinataView.xib277417053#277417053#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/PinataView.xib4300882208#511"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/PinataView.nib /Users/snagey/Desktop/mexico/PinataView.xib0#
+
+CCompileXIB /Users/snagey/Desktop/mexico/PinataViewController.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/mexico/SearchMainView.xib
+s277412678.773528
+e277412679.026700
+r1
+xCompileXIB
+x/Users/snagey/Desktop/mexico/SearchMainView.xib
+lSLF07#2@29"CompileXIB SearchMainView.xib277412678#277412679#0(0"0(0#0#47"/Users/snagey/Desktop/mexico/SearchMainView.xib4300882208#519"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/SearchMainView.nib /Users/snagey/Desktop/mexico/SearchMainView.xib0#
+
+CCompileXIB /Users/snagey/Desktop/mexico/SearchMainViewController.xib
+r0
+
+CCompileXIB /Users/snagey/Desktop/mexico/SecondView.xib
+s277392157.069345
+e277392157.351641
+r1
+xCompileXIB
+x/Users/snagey/Desktop/mexico/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib277392157#277392157#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/SecondView.xib4300882208#511"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/SecondView.nib /Users/snagey/Desktop/mexico/SecondView.xib0#
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/05-shuffle.png 05-shuffle.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/06-magnifying-glass.png 06-magnifying-glass.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/102-walk.png 102-walk.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/103-map.png 103-map.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/37-suitcase.png 37-suitcase.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/38-airplane.png 38-airplane.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/48-fork-and-knife.png 48-fork-and-knife.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/53-house.png 53-house.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/71-compass.png 71-compass.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/87-wineglass.png 87-wineglass.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Mexico.app/Mexico-Flag-256x256.png Mexico-Flag-256x256.png
+s277419897.045105
+e277419897.050395
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Mexico.app/Mexico-Flag-256x256.png
+xMexico-Flag-256x256.png
+lSLF07#2@28"Copy Mexico-Flag-256x256.png277419897#277419897#0(0"0(0#0#52"/Users/snagey/Desktop/mexico/Mexico-Flag-256x256.png4300882208#498"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/Mexico-Flag-256x256.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/05-shuffle.png 05-shuffle.png
+s277392157.352810
+e277392157.385676
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/05-shuffle.png
+x05-shuffle.png
+lSLF07#2@19"Copy 05-shuffle.png277392157#277392157#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/05-shuffle.png4300882208#489"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/05-shuffle.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/06-magnifying-glass.png 06-magnifying-glass.png
+s277392157.408343
+e277392157.414881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/06-magnifying-glass.png
+x06-magnifying-glass.png
+lSLF07#2@28"Copy 06-magnifying-glass.png277392157#277392157#0(0"0(0#0#52"/Users/snagey/Desktop/mexico/06-magnifying-glass.png4300882208#498"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/06-magnifying-glass.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/102-walk.png 102-walk.png
+s277392157.400913
+e277392157.409887
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/102-walk.png
+x102-walk.png
+lSLF07#2@17"Copy 102-walk.png277392157#277392157#0(0"0(0#0#41"/Users/snagey/Desktop/mexico/102-walk.png4300882208#487"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/102-walk.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/103-map.png 103-map.png
+s277392157.351721
+e277392157.382838
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/103-map.png
+x103-map.png
+lSLF07#2@16"Copy 103-map.png277392157#277392157#0(0"0(0#0#40"/Users/snagey/Desktop/mexico/103-map.png4300882208#486"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/103-map.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/37-suitcase.png 37-suitcase.png
+s277392157.406844
+e277392157.418132
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/37-suitcase.png
+x37-suitcase.png
+lSLF07#2@20"Copy 37-suitcase.png277392157#277392157#0(0"0(0#0#44"/Users/snagey/Desktop/mexico/37-suitcase.png4300882208#490"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/37-suitcase.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/38-airplane.png 38-airplane.png
+s277392157.405358
+e277392157.415026
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/38-airplane.png
+x38-airplane.png
+lSLF07#2@20"Copy 38-airplane.png277392157#277392157#0(0"0(0#0#44"/Users/snagey/Desktop/mexico/38-airplane.png4300882208#490"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/38-airplane.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/48-fork-and-knife.png 48-fork-and-knife.png
+s277392157.403888
+e277392157.411819
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/48-fork-and-knife.png
+x48-fork-and-knife.png
+lSLF07#2@26"Copy 48-fork-and-knife.png277392157#277392157#0(0"0(0#0#50"/Users/snagey/Desktop/mexico/48-fork-and-knife.png4300882208#496"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/48-fork-and-knife.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/53-house.png 53-house.png
+s277392157.352315
+e277392157.382148
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/53-house.png
+x53-house.png
+lSLF07#2@17"Copy 53-house.png277392157#277392157#0(0"0(0#0#41"/Users/snagey/Desktop/mexico/53-house.png4300882208#487"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/53-house.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/71-compass.png 71-compass.png
+s277392157.399296
+e277392157.409796
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/71-compass.png
+x71-compass.png
+lSLF07#2@19"Copy 71-compass.png277392157#277392157#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/71-compass.png4300882208#489"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/71-compass.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CCpResource build/Debug-iphonesimulator/mexico.app/87-wineglass.png 87-wineglass.png
+s277392157.402417
+e277392157.418526
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mexico.app/87-wineglass.png
+x87-wineglass.png
+lSLF07#2@21"Copy 87-wineglass.png277392157#277392157#0(0"0(0#0#45"/Users/snagey/Desktop/mexico/87-wineglass.png4300882208#491"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/snagey/Desktop/mexico/87-wineglass.png /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+
+CGenerateDSYMFile /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app.dSYM /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico
+s277658789.186113
+e277658789.246793
+r1
+xGenerateDSYMFile
+x/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app.dSYM
+x/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Mexico.app.dSYM build/Debug-iphonesimulator/Mexico.app/Mexico277658789#277658789#0(0"0(0#0#81"/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico4300882208#433"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico -o /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app.dSYM0#
+
+CGenerateDSYMFile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app.dSYM /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico
+s277419663.099230
+e277419663.113973
+r1
+xGenerateDSYMFile
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app.dSYM
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Mexico.app.dSYM build/Debug-iphonesimulator/Mexico.app/Mexico277419663#277419663#0(0"0(0#0#74"/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico4300882208#412"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico -o /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app.dSYM0#
+
+CGenerateDSYMFile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app.dSYM /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico
+s277419005.784089
+e277419005.799975
+r1
+xGenerateDSYMFile
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app.dSYM
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/mexico.app.dSYM build/Debug-iphonesimulator/mexico.app/mexico277419005#277419005#0(0"0(0#0#74"/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico4300882208#412"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico -o /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app.dSYM0#
+
+CLd /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico normal i386
+s277658788.866973
+e277658789.186021
+r1
+xLd
+x/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico
+xnormal
+xi386
+lSLF07#2@86"Link /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico277658788#277658789#0(0"0(0#0#0"4300882208#922"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -filelist /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/Mexico.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Mexico0#
+
+CLd /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico normal i386
+s277419663.083375
+e277419663.099152
+r1
+xLd
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico
+xnormal
+xi386
+lSLF07#2@79"Link /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico277419663#277419663#0(0"0(0#0#0"4300882208#887"    cd /Users/snagey/Desktop/mexico    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -filelist /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Objects-normal/i386/Mexico.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Mexico0#
+
+CLd /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico normal i386
+s277419005.764476
+e277419005.783993
+r1
+xLd
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico
+xnormal
+xi386
+lSLF07#2@79"Link /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico277419005#277419005#0(0"0(0#0#0"4300882208#887"    cd /Users/snagey/Desktop/mexico    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -filelist /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/Objects-normal/i386/mexico.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/mexico0#
+
+CProcessInfoPlistFile /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app/Info.plist mexico-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Info.plist mexico-Info.plist
+s277419803.962729
+e277419804.007696
+r1
+xProcessInfoPlistFile
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Info.plist
+xmexico-Info.plist
+lSLF07#2@25"Process mexico-Info.plist277419803#277419804#0(0"0(0#0#46"/Users/snagey/Desktop/mexico/mexico-Info.plist4300882208#508"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility mexico-Info.plist -genpkginfo /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/Info.plist mexico-Info.plist
+s277392156.989498
+e277392157.046187
+r1
+xProcessInfoPlistFile
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/Info.plist
+xmexico-Info.plist
+lSLF07#2@25"Process mexico-Info.plist277392157#277392157#0(0"0(0#0#46"/Users/snagey/Desktop/mexico/mexico-Info.plist32933040433463412#508"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility mexico-Info.plist -genpkginfo /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app/Info.plist0#
+
+CProcessPCH /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-cpudllhkxirddwfbylawyiarvcmi/mexico_Prefix.pch.gch mexico_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277412774.464316
+e277412775.381783
+r1
+xProcessPCH
+x/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-cpudllhkxirddwfbylawyiarvcmi/mexico_Prefix.pch.gch
+xmexico_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile mexico_Prefix.pch277412774#277412775#0(0"0(0#0#46"/Users/snagey/Desktop/mexico/mexico_Prefix.pch7233173838130146304#1796"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/mexico.build/DerivedSources -c /Users/snagey/Desktop/mexico/mexico_Prefix.pch -o /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-cpudllhkxirddwfbylawyiarvcmi/mexico_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch.gch mexico_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277658786.750093
+e277658788.378314
+r1
+xProcessPCH
+x/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch.gch
+xmexico_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile mexico_Prefix.pch277658786#277658788#0(0"0(0#0#53"/Users/snagey/Desktop/Mexico-iPhone/mexico_Prefix.pch7233173838130146304#1768"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator -I/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/Mexico-iPhone/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -c /Users/snagey/Desktop/Mexico-iPhone/mexico_Prefix.pch -o /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ctwsiyjvihjirvfsynnainppdtrs/mexico_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch.gch mexico_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277419551.205539
+e277419551.771162
+r1
+xProcessPCH
+x/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch.gch
+xmexico_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile mexico_Prefix.pch277419551#277419551#0(0"0(0#0#46"/Users/snagey/Desktop/mexico/mexico_Prefix.pch4300882208#1698"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/Mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator -I/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources/i386 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphonesimulator/Mexico.build/DerivedSources -c /Users/snagey/Desktop/mexico/mexico_Prefix.pch -o /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-gnkziomzldtdfsatnihpfngubdvl/mexico_Prefix.pch.gch0#
+
+CTouch /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app
+s277658789.246867
+e277658789.278620
+r1
+xTouch
+x/Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app
+lSLF07#2@80"Touch /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app277658789#277658789#0(0"0(0#0#0"4300882208#333"    cd /Users/snagey/Desktop/Mexico-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/snagey/Desktop/Mexico-iPhone/build/Debug-iphonesimulator/Mexico.app0#
+
+CTouch /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app
+s277650522.218615
+e277650522.254630
+r1
+xTouch
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app
+lSLF07#2@73"Touch /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app277650522#277650522#0(0"0(0#0#0"4300882208#319"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/Mexico.app0#
+
+CTouch /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app
+s277419412.356822
+e277419412.359057
+r1
+xTouch
+x/Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app
+lSLF07#2@73"Touch /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app277419412#277419412#0(0"0(0#0#0"4300882208#319"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/snagey/Desktop/mexico/build/Debug-iphonesimulator/mexico.app0#
+

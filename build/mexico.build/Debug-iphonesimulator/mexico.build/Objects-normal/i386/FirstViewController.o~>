@@ -1,0 +1,6 @@
+/Users/snagey/Desktop/mexico/Classes/FirstViewController.m:9:33: error: BrowseViewController.h: No such file or directory
+/Users/snagey/Desktop/mexico/Classes/FirstViewController.m:46: warning: cannot find interface declaration for 'BrowseViewController'
+/Users/snagey/Desktop/mexico/Classes/FirstViewController.m: In function '-[BrowseViewController didReceiveMemoryWarning]':
+/Users/snagey/Desktop/mexico/Classes/FirstViewController.m:48: error: no super class declared in @interface for 'BrowseViewController'
+/Users/snagey/Desktop/mexico/Classes/FirstViewController.m: In function '-[BrowseViewController dealloc]':
+/Users/snagey/Desktop/mexico/Classes/FirstViewController.m:60: error: no super class declared in @interface for 'BrowseViewController'
