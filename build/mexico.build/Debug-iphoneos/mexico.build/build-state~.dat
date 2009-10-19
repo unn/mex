@@ -1,529 +1,0 @@
-Tmexico
-v7
-r0
-t277401941.005341
-cCheck dependencies
-cCpResource build/Debug-iphoneos/mexico.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
-cProcessInfoPlistFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/Info.plist mexico-Info.plist
-cCompileXIB /Users/snagey/Desktop/mexico/MainWindow.xib
-cCompileXIB /Users/snagey/Desktop/mexico/SecondView.xib
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/103-map.png 103-map.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/53-house.png 53-house.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/05-shuffle.png 05-shuffle.png
-cCompileXIB /Users/snagey/Desktop/mexico/FirstView.xib
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/71-compass.png 71-compass.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/102-walk.png 102-walk.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/87-wineglass.png 87-wineglass.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/48-fork-and-knife.png 48-fork-and-knife.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/38-airplane.png 38-airplane.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/37-suitcase.png 37-suitcase.png
-cCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/06-magnifying-glass.png 06-magnifying-glass.png
-cProcessPCH /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch.gch mexico_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/main.o /Users/snagey/Desktop/mexico/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/mexicoAppDelegate.o /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/FirstViewController.o /Users/snagey/Desktop/mexico/Classes/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico normal armv6
-cGenerateDSYMFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app.dSYM /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico
-cProcessProductPackaging "/Users/snagey/Library/MobileDevice/Provisioning Profiles/20D2E654-77C6-4917-829C-D372964F6F3F.mobileprovision" /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/embedded.mobileprovision
-cTouch /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app
-cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent
-cCodeSign /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
-c000000004A8B68040000000000000110
-t1250650116
-s272
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
-c000000004A767D3000000000000000DD
-t1249279280
-s221
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
-c000000004A767D3000000000000001E5
-t1249279280
-s485
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004A82198D00000000005F4900
-t1250040205
-s6244608
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004A76566F0000000000501370
-t1249269359
-s5247856
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004A7656460000000000001355
-t1249269318
-s4949
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004A7C6E9C0000000000000788
-t1249668764
-s1928
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004A7C6FEF0000000001B3F450
-t1249669103
-s28570704
-
-N/Users/snagey/Desktop/mexico/05-shuffle.png
-c00000000497216F00000000000000164
-t1232213744
-s356
-
-N/Users/snagey/Desktop/mexico/06-magnifying-glass.png
-c00000000497216FE0000000000000184
-t1232213758
-s388
-
-N/Users/snagey/Desktop/mexico/102-walk.png
-c000000004AA700C400000000000001BD
-t1252458692
-s445
-
-N/Users/snagey/Desktop/mexico/103-map.png
-c000000004AA700CA00000000000001FB
-t1252458698
-s507
-
-N/Users/snagey/Desktop/mexico/37-suitcase.png
-c000000004972183A00000000000000E3
-t1232214074
-s227
-
-N/Users/snagey/Desktop/mexico/38-airplane.png
-c00000000497218440000000000000108
-t1232214084
-s264
-
-N/Users/snagey/Desktop/mexico/48-fork-and-knife.png
-c0000000049B4B99000000000000000D1
-t1236580752
-s209
-
-N/Users/snagey/Desktop/mexico/53-house.png
-c000000004AA5BA5C00000000000000CF
-t1252375132
-s207
-
-N/Users/snagey/Desktop/mexico/71-compass.png
-c000000004A26CC760000000000000164
-t1244056694
-s356
-
-N/Users/snagey/Desktop/mexico/87-wineglass.png
-c000000004A3E755A000000000000011B
-t1245607258
-s283
-
-N/Users/snagey/Desktop/mexico/Classes/FirstViewController.h
-c000000004AD86DA300000000000000EA
-t1255697827
-s234
-i<UIKit/UIKit.h>
-
-N/Users/snagey/Desktop/mexico/Classes/FirstViewController.m
-c000000004AD86DA300000000000005AF
-t1255697827
-s1455
-i"FirstViewController.h"
-
-N/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.h
-c000000004AD86DA300000000000001D7
-t1255697827
-s471
-i<UIKit/UIKit.h>
-
-N/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m
-c000000004AD86DA300000000000003B7
-t1255697827
-s951
-i"mexicoAppDelegate.h"
-
-N/Users/snagey/Desktop/mexico/FirstView.xib
-c000000004AD899B60000000000004C1D
-t1255709110
-s19485
-
-N/Users/snagey/Desktop/mexico/MainWindow.xib
-c000000004AD8739B00000000000076D4
-t1255699355
-s30420
-
-N/Users/snagey/Desktop/mexico/SecondView.xib
-c000000004AD86DA300000000000022EE
-t1255697827
-s8942
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app
-t1255709140
-s748
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app.dSYM
-t1255709140
-s102
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/05-shuffle.png
-t1255709138
-s447
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/06-magnifying-glass.png
-t1255709139
-s507
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/102-walk.png
-t1255709139
-s554
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/103-map.png
-t1255709138
-s536
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/37-suitcase.png
-t1255709139
-s234
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/38-airplane.png
-t1255709139
-s314
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/48-fork-and-knife.png
-t1255709139
-s204
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/53-house.png
-t1255709138
-s218
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/71-compass.png
-t1255709139
-s462
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/87-wineglass.png
-t1255709139
-s310
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/FirstView.nib
-t1255709139
-s1676
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/Info.plist
-t1255709138
-s622
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/MainWindow.nib
-t1255709138
-s2497
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/PkgInfo
-t1255709138
-s8
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/ResourceRules.plist
-t1255709138
-s485
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/SecondView.nib
-t1255709138
-s1709
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/embedded.mobileprovision
-t1255709140
-s7375
-
-N/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico
-t1255709140
-s15916
-
-N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/FirstViewController.o
-t1255709140
-s29440
-
-N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/main.o
-t1255709140
-s6520
-
-N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/mexico.LinkFileList
-c000000004AD899D20000000000000154
-t1255709138
-s340
-
-N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/mexicoAppDelegate.o
-t1255709140
-s43540
-
-N/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent
-t1255709140
-s319
-
-N/Users/snagey/Desktop/mexico/main.m
-c000000004AD86DA30000000000000165
-t1255697827
-s357
-i<UIKit/UIKit.h>
-
-N/Users/snagey/Desktop/mexico/mexico_Prefix.pch
-c000000004AD86DA300000000000000B5
-t1255697827
-s181
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/snagey/Library/MobileDevice/Provisioning Profiles/20D2E654-77C6-4917-829C-D372964F6F3F.mobileprovision
-c000000004ACE07B00000000000001CCF
-t1255016368
-s7375
-
-N/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch.gch
-t1255709140
-s7876792
-
-Nmexico-Info.plist
-c000000004AD86DA3000000000000038D
-t1255697827
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies277401937#277401938#0(0"0(0#1#0"4300882208#0"0#
-
-CCodeSign /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app
-s277401940.720442
-e277401941.005296
-r1
-xCodeSign
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app
-lSLF07#2@40"CodeSign build/Debug-iphoneos/mexico.app277401940#277401941#0(0"0(0#0#60"/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app4300882208#664"    cd /Users/snagey/Desktop/mexico    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/codesign -f -s "iPhone Developer: David Stoline (RSMUXQUUFD)" --resource-rules=/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/ResourceRules.plist --entitlements /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app0#
-
-CCompileC build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/FirstViewController.o /Users/snagey/Desktop/mexico/Classes/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s277401940.252617
-e277401940.291689
-r1
-xCompileC
-xbuild/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/FirstViewController.o
-x/Users/snagey/Desktop/mexico/Classes/FirstViewController.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/snagey/Desktop/mexico/Classes/FirstViewController.m277401940#277401940#0(0"0(0#0#58"/Users/snagey/Desktop/mexico/Classes/FirstViewController.m4300882208#1700"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphoneos -I/Users/snagey/Desktop/mexico/build/Debug-iphoneos/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources/armv6 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/FirstViewController.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/FirstViewController.o0#
-
-CCompileC build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/main.o /Users/snagey/Desktop/mexico/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s277401940.172583
-e277401940.252524
-r1
-xCompileC
-xbuild/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/main.o
-x/Users/snagey/Desktop/mexico/main.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@43"Compile /Users/snagey/Desktop/mexico/main.m277401940#277401940#0(0"0(0#0#35"/Users/snagey/Desktop/mexico/main.m4300882208#1662"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphoneos -I/Users/snagey/Desktop/mexico/build/Debug-iphoneos/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources/armv6 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/main.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/main.o0#
-
-CCompileC build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/mexicoAppDelegate.o /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s277401940.173651
-e277401940.268312
-r1
-xCompileC
-xbuild/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/mexicoAppDelegate.o
-x/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m277401940#277401940#0(0"0(0#0#56"/Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m4300882208#1696"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphoneos -I/Users/snagey/Desktop/mexico/build/Debug-iphoneos/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources/armv6 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources -include /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch -c /Users/snagey/Desktop/mexico/Classes/mexicoAppDelegate.m -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/mexicoAppDelegate.o0#
-
-CCompileXIB /Users/snagey/Desktop/mexico/FirstView.xib
-s277401938.969785
-e277401939.265212
-r1
-xCompileXIB
-x/Users/snagey/Desktop/mexico/FirstView.xib
-lSLF07#2@24"CompileXIB FirstView.xib277401938#277401939#0(0"0(0#0#42"/Users/snagey/Desktop/mexico/FirstView.xib4300882208#495"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/FirstView.nib /Users/snagey/Desktop/mexico/FirstView.xib0#
-
-CCompileXIB /Users/snagey/Desktop/mexico/MainWindow.xib
-s277401938.451929
-e277401938.773247
-r1
-xCompileXIB
-x/Users/snagey/Desktop/mexico/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib277401938#277401938#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/MainWindow.xib4300882208#497"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/MainWindow.nib /Users/snagey/Desktop/mexico/MainWindow.xib0#
-
-CCompileXIB /Users/snagey/Desktop/mexico/SecondView.xib
-s277401938.452496
-e277401938.724528
-r1
-xCompileXIB
-x/Users/snagey/Desktop/mexico/SecondView.xib
-lSLF07#2@25"CompileXIB SecondView.xib277401938#277401938#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/SecondView.xib4300882208#497"    cd /Users/snagey/Desktop/mexico    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/SecondView.nib /Users/snagey/Desktop/mexico/SecondView.xib0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/05-shuffle.png 05-shuffle.png
-s277401938.968400
-e277401938.988681
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/05-shuffle.png
-x05-shuffle.png
-lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/mexico.app/05-shuffle.png 05-shuffle.png277401938#277401938#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/05-shuffle.png4300882208#599"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/05-shuffle.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/05-shuffle.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/06-magnifying-glass.png 06-magnifying-glass.png
-s277401939.120724
-e277401939.139200
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/06-magnifying-glass.png
-x06-magnifying-glass.png
-lSLF07#2@91"CopyPNGFile build/Debug-iphoneos/mexico.app/06-magnifying-glass.png 06-magnifying-glass.png277401939#277401939#0(0"0(0#0#52"/Users/snagey/Desktop/mexico/06-magnifying-glass.png4300882208#617"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/06-magnifying-glass.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/06-magnifying-glass.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/102-walk.png 102-walk.png
-s277401939.025617
-e277401939.046342
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/102-walk.png
-x102-walk.png
-lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/mexico.app/102-walk.png 102-walk.png277401939#277401939#0(0"0(0#0#41"/Users/snagey/Desktop/mexico/102-walk.png4300882208#595"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/102-walk.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/102-walk.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/103-map.png 103-map.png
-s277401938.724611
-e277401938.969731
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/103-map.png
-x103-map.png
-lSLF07#2@67"CopyPNGFile build/Debug-iphoneos/mexico.app/103-map.png 103-map.png277401938#277401938#0(0"0(0#0#40"/Users/snagey/Desktop/mexico/103-map.png4300882208#593"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/103-map.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/103-map.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/37-suitcase.png 37-suitcase.png
-s277401939.101159
-e277401939.120632
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/37-suitcase.png
-x37-suitcase.png
-lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/mexico.app/37-suitcase.png 37-suitcase.png277401939#277401939#0(0"0(0#0#44"/Users/snagey/Desktop/mexico/37-suitcase.png4300882208#601"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/37-suitcase.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/37-suitcase.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/38-airplane.png 38-airplane.png
-s277401939.082735
-e277401939.101079
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/38-airplane.png
-x38-airplane.png
-lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/mexico.app/38-airplane.png 38-airplane.png277401939#277401939#0(0"0(0#0#44"/Users/snagey/Desktop/mexico/38-airplane.png4300882208#601"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/38-airplane.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/38-airplane.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/48-fork-and-knife.png 48-fork-and-knife.png
-s277401939.065186
-e277401939.082653
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/48-fork-and-knife.png
-x48-fork-and-knife.png
-lSLF07#2@87"CopyPNGFile build/Debug-iphoneos/mexico.app/48-fork-and-knife.png 48-fork-and-knife.png277401939#277401939#0(0"0(0#0#50"/Users/snagey/Desktop/mexico/48-fork-and-knife.png4300882208#613"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/48-fork-and-knife.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/48-fork-and-knife.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/53-house.png 53-house.png
-s277401938.773329
-e277401938.968305
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/53-house.png
-x53-house.png
-lSLF07#2@69"CopyPNGFile build/Debug-iphoneos/mexico.app/53-house.png 53-house.png277401938#277401938#0(0"0(0#0#41"/Users/snagey/Desktop/mexico/53-house.png4300882208#595"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/53-house.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/53-house.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/71-compass.png 71-compass.png
-s277401938.988766
-e277401939.025538
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/71-compass.png
-x71-compass.png
-lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/mexico.app/71-compass.png 71-compass.png277401938#277401939#0(0"0(0#0#43"/Users/snagey/Desktop/mexico/71-compass.png4300882208#599"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/71-compass.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/71-compass.png0#
-
-CCopyPNGFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/87-wineglass.png 87-wineglass.png
-s277401939.046426
-e277401939.065104
-r1
-xCopyPNGFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/87-wineglass.png
-x87-wineglass.png
-lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/mexico.app/87-wineglass.png 87-wineglass.png277401939#277401939#0(0"0(0#0#45"/Users/snagey/Desktop/mexico/87-wineglass.png4300882208#603"    cd /Users/snagey/Desktop/mexico    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/snagey/Desktop/mexico/87-wineglass.png /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/87-wineglass.png0#
-
-CCpResource build/Debug-iphoneos/mexico.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
-s277401938.410709
-e277401938.451168
-r1
-xCpResource
-xbuild/Debug-iphoneos/mexico.app/ResourceRules.plist
-x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
-lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist277401938#277401938#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist4300882208#521"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app0#
-
-CGenerateDSYMFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app.dSYM /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico
-s277401940.690937
-e277401940.705174
-r1
-xGenerateDSYMFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app.dSYM
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico
-lSLF07#2@92"GenerateDSYMFile build/Debug-iphoneos/mexico.app.dSYM build/Debug-iphoneos/mexico.app/mexico277401940#277401940#0(0"0(0#0#67"/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico4300882208#391"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico -o /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app.dSYM0#
-
-CLd /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico normal armv6
-s277401940.291777
-e277401940.690827
-r1
-xLd
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico
-xnormal
-xarmv6
-lSLF07#2@72"Link /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico277401940#277401940#0(0"0(0#0#0"4300882208#896"    cd /Users/snagey/Desktop/mexico    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -L/Users/snagey/Desktop/mexico/build/Debug-iphoneos -F/Users/snagey/Desktop/mexico/build/Debug-iphoneos -filelist /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/Objects-normal/armv6/mexico.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/mexico0#
-
-CProcessInfoPlistFile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/Info.plist mexico-Info.plist
-s277401938.411901
-e277401938.451871
-r1
-xProcessInfoPlistFile
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/Info.plist
-xmexico-Info.plist
-lSLF07#2@25"Process mexico-Info.plist277401938#277401938#0(0"0(0#0#46"/Users/snagey/Desktop/mexico/mexico-Info.plist4300882208#580"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility mexico-Info.plist -genpkginfo /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/ResourceRules.plist -o /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/Info.plist0#
-
-CProcessPCH /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch.gch mexico_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-s277401939.265322
-e277401940.172340
-r1
-xProcessPCH
-x/var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch.gch
-xmexico_Prefix.pch
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile mexico_Prefix.pch277401939#277401940#0(0"0(0#0#46"/Users/snagey/Desktop/mexico/mexico_Prefix.pch4300882208#1571"    cd /Users/snagey/Desktop/mexico    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-generated-files.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-own-target-headers.hmap -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-all-target-headers.hmap -iquote /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico-project-headers.hmap -F/Users/snagey/Desktop/mexico/build/Debug-iphoneos -I/Users/snagey/Desktop/mexico/build/Debug-iphoneos/include -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources/armv6 -I/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/DerivedSources -c /Users/snagey/Desktop/mexico/mexico_Prefix.pch -o /var/folders/9r/9rbLK2p6H8SXDu-jzT09mmxtppU/-Caches-/com.apple.Xcode.796514136/SharedPrecompiledHeaders/mexico_Prefix-ezzgspdkuubrdociwxvgypmteyee/mexico_Prefix.pch.gch0#
-
-CProcessProductPackaging "/Users/snagey/Library/MobileDevice/Provisioning Profiles/20D2E654-77C6-4917-829C-D372964F6F3F.mobileprovision" /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/embedded.mobileprovision
-s277401940.705253
-e277401940.706854
-r1
-xProcessProductPackaging
-x/Users/snagey/Library/MobileDevice/Provisioning Profiles/20D2E654-77C6-4917-829C-D372964F6F3F.mobileprovision
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/embedded.mobileprovision
-lSLF07#2@192"ProcessProductPackaging "/Users/snagey/Library/MobileDevice/Provisioning Profiles/20D2E654-77C6-4917-829C-D372964F6F3F.mobileprovision" build/Debug-iphoneos/mexico.app/embedded.mobileprovision277401940#277401940#0(0"0(0#0#85"/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/embedded.mobileprovision4300882208#465"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/snagey/Library/MobileDevice/Provisioning Profiles/20D2E654-77C6-4917-829C-D372964F6F3F.mobileprovision" -o /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app/embedded.mobileprovision0#
-
-CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent
-s277401940.709828
-e277401940.720289
-r1
-xProcessProductPackaging
-x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
-x/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent
-lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent277401940#277401940#0(0"0(0#0#88"/Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent4300882208#471"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/snagey/Desktop/mexico/build/mexico.build/Debug-iphoneos/mexico.build/mexico.xcent0#
-
-CTouch /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app
-s277401940.706896
-e277401940.709714
-r1
-xTouch
-x/Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app
-lSLF07#2@66"Touch /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app277401940#277401940#0(0"0(0#0#0"4300882208#305"    cd /Users/snagey/Desktop/mexico    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/snagey/Desktop/mexico/build/Debug-iphoneos/mexico.app0#
-
