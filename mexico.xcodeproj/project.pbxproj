@@ -15,10 +15,31 @@
 		282CCBFE0DB6C98000C4EA27 /* MapView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 282CCBFD0DB6C98000C4EA27 /* MapView.xib */; };
 		288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765070DF74369002DB57D /* CoreGraphics.framework */; };
 		28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */; };
+		C021682310D04B5C00E67518 /* main-browse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C021682210D04B5C00E67518 /* main-browse.jpg */; };
+		C021682C10D04C1C00E67518 /* pinata-jpg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C021682A10D04C1C00E67518 /* pinata-jpg.jpg */; };
+		C021682D10D04C1C00E67518 /* search-detial-page.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C021682B10D04C1C00E67518 /* search-detial-page.jpg */; };
 		C087A7B210891776009AE89E /* Mexico-Flag-256x256.png in Resources */ = {isa = PBXBuildFile; fileRef = C087A7B110891776009AE89E /* Mexico-Flag-256x256.png */; };
 		C0C1ACC2108DE82100F84D34 /* PinataView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0C1ACC1108DE82100F84D34 /* PinataView.xib */; };
+		C0C1ACD8108DEB2000F84D34 /* 53-house.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FB3B271088A639009E1EF7 /* 53-house.png */; };
+		C0C1ACEB108DEDEF00F84D34 /* DestinationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C1ACE9108DEDEF00F84D34 /* DestinationViewController.m */; };
+		C0C1ACEC108DEDEF00F84D34 /* DestinationView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0C1ACEA108DEDEF00F84D34 /* DestinationView.xib */; };
+		C0C1AD29108DF2F700F84D34 /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C1AD27108DF2F700F84D34 /* NewsViewController.m */; };
+		C0C1AD2A108DF2F700F84D34 /* NewsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD28108DF2F700F84D34 /* NewsViewController.xib */; };
+		C0C1AD2E108DF30400F84D34 /* ActivitiesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C1AD2C108DF30400F84D34 /* ActivitiesViewController.m */; };
+		C0C1AD2F108DF30400F84D34 /* ActivitiesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD2D108DF30400F84D34 /* ActivitiesViewController.xib */; };
+		C0C1AD33108DF30C00F84D34 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C1AD31108DF30C00F84D34 /* AboutViewController.m */; };
+		C0C1AD34108DF30C00F84D34 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD32108DF30C00F84D34 /* AboutViewController.xib */; };
+		C0C1AD38108DF31200F84D34 /* WeatherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C1AD36108DF31200F84D34 /* WeatherViewController.m */; };
+		C0C1AD39108DF31200F84D34 /* WeatherView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD37108DF31200F84D34 /* WeatherView.xib */; };
+		C0C1AD63108DF90400F84D34 /* crest-background.png in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD62108DF90400F84D34 /* crest-background.png */; };
+		C0C1AD70108DFD2F00F84D34 /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD6F108DFD2F00F84D34 /* sun.png */; };
+		C0C1AD7B108DFECB00F84D34 /* mini-map.png in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD77108DFECB00F84D34 /* mini-map.png */; };
+		C0C1AD7C108DFECB00F84D34 /* sombrero.png in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD78108DFECB00F84D34 /* sombrero.png */; };
+		C0C1AD7D108DFECB00F84D34 /* clock.png in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD79108DFECB00F84D34 /* clock.png */; };
+		C0C1AD7E108DFECB00F84D34 /* mini-flag.png in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD7A108DFECB00F84D34 /* mini-flag.png */; };
+		C0C1AD82108E02A800F84D34 /* title-mexico-go.png in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD81108E02A800F84D34 /* title-mexico-go.png */; };
+		C0C1AD84108E034D00F84D34 /* TitleImage.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0C1AD83108E034D00F84D34 /* TitleImage.xib */; };
 		C0FB3B291088A639009E1EF7 /* 103-map.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FB3B261088A639009E1EF7 /* 103-map.png */; };
-		C0FB3B2A1088A639009E1EF7 /* 53-house.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FB3B271088A639009E1EF7 /* 53-house.png */; };
 		C0FB3B2B1088A639009E1EF7 /* 05-shuffle.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FB3B281088A639009E1EF7 /* 05-shuffle.png */; };
 		C0FB3B2F1088A6CB009E1EF7 /* BrowseView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C0FB3B2E1088A6CB009E1EF7 /* BrowseView.xib */; };
 		C0FB3B311088A73A009E1EF7 /* 71-compass.png in Resources */ = {isa = PBXBuildFile; fileRef = C0FB3B301088A73A009E1EF7 /* 71-compass.png */; };
@@ -49,8 +70,34 @@
 		28AD73870D9D96C1002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* mexico-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "mexico-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C021682210D04B5C00E67518 /* main-browse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "main-browse.jpg"; sourceTree = "<group>"; };
+		C021682A10D04C1C00E67518 /* pinata-jpg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pinata-jpg.jpg"; sourceTree = "<group>"; };
+		C021682B10D04C1C00E67518 /* search-detial-page.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "search-detial-page.jpg"; sourceTree = "<group>"; };
 		C087A7B110891776009AE89E /* Mexico-Flag-256x256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mexico-Flag-256x256.png"; sourceTree = "<group>"; };
 		C0C1ACC3108DE83C00F84D34 /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Spanish; path = Spanish.lproj/PinataView.xib; sourceTree = "<group>"; };
+		C0C1ACE8108DEDEF00F84D34 /* DestinationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DestinationViewController.h; sourceTree = "<group>"; };
+		C0C1ACE9108DEDEF00F84D34 /* DestinationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DestinationViewController.m; sourceTree = "<group>"; };
+		C0C1ACEA108DEDEF00F84D34 /* DestinationView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DestinationView.xib; path = Classes/DestinationView.xib; sourceTree = "<group>"; };
+		C0C1AD26108DF2F700F84D34 /* NewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsViewController.h; sourceTree = "<group>"; };
+		C0C1AD27108DF2F700F84D34 /* NewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsViewController.m; sourceTree = "<group>"; };
+		C0C1AD28108DF2F700F84D34 /* NewsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = NewsViewController.xib; path = Classes/NewsViewController.xib; sourceTree = "<group>"; };
+		C0C1AD2B108DF30400F84D34 /* ActivitiesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActivitiesViewController.h; sourceTree = "<group>"; };
+		C0C1AD2C108DF30400F84D34 /* ActivitiesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActivitiesViewController.m; sourceTree = "<group>"; };
+		C0C1AD2D108DF30400F84D34 /* ActivitiesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ActivitiesViewController.xib; path = Classes/ActivitiesViewController.xib; sourceTree = "<group>"; };
+		C0C1AD30108DF30C00F84D34 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		C0C1AD31108DF30C00F84D34 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		C0C1AD32108DF30C00F84D34 /* AboutViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AboutViewController.xib; path = Classes/AboutViewController.xib; sourceTree = "<group>"; };
+		C0C1AD35108DF31200F84D34 /* WeatherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeatherViewController.h; sourceTree = "<group>"; };
+		C0C1AD36108DF31200F84D34 /* WeatherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeatherViewController.m; sourceTree = "<group>"; };
+		C0C1AD37108DF31200F84D34 /* WeatherView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = WeatherView.xib; path = Classes/WeatherView.xib; sourceTree = "<group>"; };
+		C0C1AD62108DF90400F84D34 /* crest-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crest-background.png"; sourceTree = "<group>"; };
+		C0C1AD6F108DFD2F00F84D34 /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sun.png; sourceTree = "<group>"; };
+		C0C1AD77108DFECB00F84D34 /* mini-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mini-map.png"; sourceTree = "<group>"; };
+		C0C1AD78108DFECB00F84D34 /* sombrero.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sombrero.png; sourceTree = "<group>"; };
+		C0C1AD79108DFECB00F84D34 /* clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clock.png; sourceTree = "<group>"; };
+		C0C1AD7A108DFECB00F84D34 /* mini-flag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mini-flag.png"; sourceTree = "<group>"; };
+		C0C1AD81108E02A800F84D34 /* title-mexico-go.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "title-mexico-go.png"; sourceTree = "<group>"; };
+		C0C1AD83108E034D00F84D34 /* TitleImage.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TitleImage.xib; sourceTree = "<group>"; };
 		C0FB3B261088A639009E1EF7 /* 103-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "103-map.png"; sourceTree = "<group>"; };
 		C0FB3B271088A639009E1EF7 /* 53-house.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "53-house.png"; sourceTree = "<group>"; };
 		C0FB3B281088A639009E1EF7 /* 05-shuffle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "05-shuffle.png"; sourceTree = "<group>"; };
@@ -91,6 +138,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				C0C1AD3B108DF34800F84D34 /* Level 2 */,
 				C0FB3B9C1088FABD009E1EF7 /* PinataViewController.h */,
 				C0FB3B9D1088FABD009E1EF7 /* PinataViewController.m */,
 				C0FB3BA21088FB2B009E1EF7 /* SearchMainViewController.h */,
@@ -137,18 +185,11 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				C087A7B110891776009AE89E /* Mexico-Flag-256x256.png */,
-				C0FB3B3C1088AAD4009E1EF7 /* 06-magnifying-glass.png */,
-				C0FB3B3A1088AAC2009E1EF7 /* 37-suitcase.png */,
-				C0FB3B381088AAB7009E1EF7 /* 38-airplane.png */,
-				C0FB3B361088AAA1009E1EF7 /* 48-fork-and-knife.png */,
-				C0FB3B341088AA63009E1EF7 /* 87-wineglass.png */,
-				C0FB3B321088AA52009E1EF7 /* 102-walk.png */,
-				C0FB3B301088A73A009E1EF7 /* 71-compass.png */,
+				C0C1AD85108E036100F84D34 /* Utility */,
+				C0C1AD64108DF90E00F84D34 /* Images - NonLocalized */,
+				C0C1AD3A108DF32800F84D34 /* Level 2 */,
+				C0C1ACDA108DEB2900F84D34 /* Icons */,
 				C0FB3B2E1088A6CB009E1EF7 /* BrowseView.xib */,
-				C0FB3B261088A639009E1EF7 /* 103-map.png */,
-				C0FB3B271088A639009E1EF7 /* 53-house.png */,
-				C0FB3B281088A639009E1EF7 /* 05-shuffle.png */,
 				282CCBFD0DB6C98000C4EA27 /* MapView.xib */,
 				C0C1ACC1108DE82100F84D34 /* PinataView.xib */,
 				C0FB3BA41088FB2B009E1EF7 /* SearchMainView.xib */,
@@ -167,6 +208,78 @@
 				288765070DF74369002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C0C1ACDA108DEB2900F84D34 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				C0C1AD6F108DFD2F00F84D34 /* sun.png */,
+				C087A7B110891776009AE89E /* Mexico-Flag-256x256.png */,
+				C0FB3B3C1088AAD4009E1EF7 /* 06-magnifying-glass.png */,
+				C0FB3B3A1088AAC2009E1EF7 /* 37-suitcase.png */,
+				C0FB3B381088AAB7009E1EF7 /* 38-airplane.png */,
+				C0FB3B361088AAA1009E1EF7 /* 48-fork-and-knife.png */,
+				C0FB3B341088AA63009E1EF7 /* 87-wineglass.png */,
+				C0FB3B321088AA52009E1EF7 /* 102-walk.png */,
+				C0FB3B301088A73A009E1EF7 /* 71-compass.png */,
+				C0FB3B261088A639009E1EF7 /* 103-map.png */,
+				C0FB3B271088A639009E1EF7 /* 53-house.png */,
+				C0FB3B281088A639009E1EF7 /* 05-shuffle.png */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		C0C1AD3A108DF32800F84D34 /* Level 2 */ = {
+			isa = PBXGroup;
+			children = (
+				C0C1ACEA108DEDEF00F84D34 /* DestinationView.xib */,
+				C0C1AD37108DF31200F84D34 /* WeatherView.xib */,
+				C0C1AD32108DF30C00F84D34 /* AboutViewController.xib */,
+				C0C1AD2D108DF30400F84D34 /* ActivitiesViewController.xib */,
+				C0C1AD28108DF2F700F84D34 /* NewsViewController.xib */,
+			);
+			name = "Level 2";
+			sourceTree = "<group>";
+		};
+		C0C1AD3B108DF34800F84D34 /* Level 2 */ = {
+			isa = PBXGroup;
+			children = (
+				C0C1AD26108DF2F700F84D34 /* NewsViewController.h */,
+				C0C1AD27108DF2F700F84D34 /* NewsViewController.m */,
+				C0C1AD2B108DF30400F84D34 /* ActivitiesViewController.h */,
+				C0C1AD2C108DF30400F84D34 /* ActivitiesViewController.m */,
+				C0C1AD30108DF30C00F84D34 /* AboutViewController.h */,
+				C0C1AD31108DF30C00F84D34 /* AboutViewController.m */,
+				C0C1AD35108DF31200F84D34 /* WeatherViewController.h */,
+				C0C1AD36108DF31200F84D34 /* WeatherViewController.m */,
+				C0C1ACE8108DEDEF00F84D34 /* DestinationViewController.h */,
+				C0C1ACE9108DEDEF00F84D34 /* DestinationViewController.m */,
+			);
+			name = "Level 2";
+			sourceTree = "<group>";
+		};
+		C0C1AD64108DF90E00F84D34 /* Images - NonLocalized */ = {
+			isa = PBXGroup;
+			children = (
+				C021682A10D04C1C00E67518 /* pinata-jpg.jpg */,
+				C021682B10D04C1C00E67518 /* search-detial-page.jpg */,
+				C021682210D04B5C00E67518 /* main-browse.jpg */,
+				C0C1AD81108E02A800F84D34 /* title-mexico-go.png */,
+				C0C1AD77108DFECB00F84D34 /* mini-map.png */,
+				C0C1AD78108DFECB00F84D34 /* sombrero.png */,
+				C0C1AD79108DFECB00F84D34 /* clock.png */,
+				C0C1AD7A108DFECB00F84D34 /* mini-flag.png */,
+				C0C1AD62108DF90400F84D34 /* crest-background.png */,
+			);
+			name = "Images - NonLocalized";
+			sourceTree = "<group>";
+		};
+		C0C1AD85108E036100F84D34 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				C0C1AD83108E034D00F84D34 /* TitleImage.xib */,
+			);
+			name = Utility;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -224,7 +337,7 @@
 				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
 				282CCBFE0DB6C98000C4EA27 /* MapView.xib in Resources */,
 				C0FB3B291088A639009E1EF7 /* 103-map.png in Resources */,
-				C0FB3B2A1088A639009E1EF7 /* 53-house.png in Resources */,
+				C0C1ACD8108DEB2000F84D34 /* 53-house.png in Resources */,
 				C0FB3B2B1088A639009E1EF7 /* 05-shuffle.png in Resources */,
 				C0FB3B2F1088A6CB009E1EF7 /* BrowseView.xib in Resources */,
 				C0FB3B311088A73A009E1EF7 /* 71-compass.png in Resources */,
@@ -237,6 +350,22 @@
 				C0C1ACC2108DE82100F84D34 /* PinataView.xib in Resources */,
 				C0FB3BA61088FB2B009E1EF7 /* SearchMainView.xib in Resources */,
 				C087A7B210891776009AE89E /* Mexico-Flag-256x256.png in Resources */,
+				C0C1ACEC108DEDEF00F84D34 /* DestinationView.xib in Resources */,
+				C0C1AD2A108DF2F700F84D34 /* NewsViewController.xib in Resources */,
+				C0C1AD2F108DF30400F84D34 /* ActivitiesViewController.xib in Resources */,
+				C0C1AD34108DF30C00F84D34 /* AboutViewController.xib in Resources */,
+				C0C1AD39108DF31200F84D34 /* WeatherView.xib in Resources */,
+				C0C1AD63108DF90400F84D34 /* crest-background.png in Resources */,
+				C0C1AD70108DFD2F00F84D34 /* sun.png in Resources */,
+				C0C1AD7B108DFECB00F84D34 /* mini-map.png in Resources */,
+				C0C1AD7C108DFECB00F84D34 /* sombrero.png in Resources */,
+				C0C1AD7D108DFECB00F84D34 /* clock.png in Resources */,
+				C0C1AD7E108DFECB00F84D34 /* mini-flag.png in Resources */,
+				C0C1AD82108E02A800F84D34 /* title-mexico-go.png in Resources */,
+				C0C1AD84108E034D00F84D34 /* TitleImage.xib in Resources */,
+				C021682310D04B5C00E67518 /* main-browse.jpg in Resources */,
+				C021682C10D04C1C00E67518 /* pinata-jpg.jpg in Resources */,
+				C021682D10D04C1C00E67518 /* search-detial-page.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +382,11 @@
 				C0FB3B9A1088FA47009E1EF7 /* MapViewController.m in Sources */,
 				C0FB3B9F1088FABD009E1EF7 /* PinataViewController.m in Sources */,
 				C0FB3BA51088FB2B009E1EF7 /* SearchMainViewController.m in Sources */,
+				C0C1ACEB108DEDEF00F84D34 /* DestinationViewController.m in Sources */,
+				C0C1AD29108DF2F700F84D34 /* NewsViewController.m in Sources */,
+				C0C1AD2E108DF30400F84D34 /* ActivitiesViewController.m in Sources */,
+				C0C1AD33108DF30C00F84D34 /* AboutViewController.m in Sources */,
+				C0C1AD38108DF31200F84D34 /* WeatherViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,7 +8,6 @@
 
 #import "BrowseViewController.h"
 
-
 @implementation BrowseViewController
 
 
@@ -58,6 +57,39 @@
 
 - (void)dealloc {
     [super dealloc];
+}
+
+#pragma mark Methods
+
+-(void) showView:(UIViewController *)theview withTitle:(NSString *)theTitle {
+	theview.title = theTitle;
+	[self.navigationController pushViewController:theview animated:YES];
+	[theview release];
+}
+
+- (IBAction) showDestinations
+{
+	[self showView:[[DestinationViewController alloc] initWithNibName:@"DestinationView" bundle:nil] withTitle:@"Destinations"];
+}
+
+- (IBAction) showActivities
+{
+	[self showView:[[ActivitiesViewController alloc] initWithNibName:nil bundle:nil] withTitle:@"Activities"];
+}
+
+- (IBAction) showNews
+{
+	[self showView:[[NewsViewController alloc] initWithNibName:nil bundle:nil] withTitle:@"News"];
+}
+
+- (IBAction) showWeather
+{
+	[self showView:[[WeatherViewController alloc] initWithNibName:nil bundle:nil] withTitle:@"Weather"];
+}
+
+- (IBAction) showAbout
+{
+	[self showView:[[AboutViewController alloc] initWithNibName:nil bundle:nil] withTitle:@"About Mexico"];
 }
 
 @end

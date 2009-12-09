@@ -8,10 +8,23 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DestinationViewController.h"
+#import "ActivitiesViewController.h"
+#import "NewsViewController.h"
+#import "WeatherViewController.h"
+#import "AboutViewController.h"
 
 
-@interface BrowseViewController : UINavigationController {
+@interface BrowseViewController : UIViewController {
 
 }
+
+-(void) showView:(UIViewController *)theview withTitle:(NSString *)theTitle;
+
+-(IBAction)showDestinations;
+-(IBAction)showActivities;
+-(IBAction)showNews;
+-(IBAction)showAbout;
+-(IBAction)showWeather;
 
 @end
