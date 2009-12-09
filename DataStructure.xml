@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<country>
+	<region name="Central Mexico">
+		<state name="Aguascalientes">
+			<city name="Aguascalientes (City)"/>
+		</state>
+		<state name="Distrito Federal">
+			<city name="Mexico City"/>
+			<city name="Teotihuacan"/>
+		</state>
+		<state name="Guanajuato">
+			<city name="Guanajuato"/>
+			<city name="San Miguel de Allende"/>
+		</state>
+		<state name="Hidalgo">
+			<city name="Pachuca"/>
+		</state>
+		<state name="Mexico">
+			<city name="Valle de Bravo"/>
+			<city name="Toluca"/>
+		</state>
+		<state name="Michoac&#xE1;n">
+			<city name="Morelia"/>
+		</state>
+		<state name="Morelos">
+			<city name="Morelos"/>
+			<city name="Cuernavaca"/>
+		</state>
+		<state name="Puebla">
+			<city name="Puebla (City)"/>
+		</state>
+		<state name="Quer&#xE9;taro">
+			<city name="Quer&#xE9;taro (City)"/>
+		</state>
+		<state name="San Luis Potos&#xED;">
+			<city name="San Luis Potos&#xED; (City)"/>
+		</state>
+		<state name="Tlaxcala">
+			<city name="Tlaxcala (City)"/>
+		</state>
+	</region>
+	<region name="Pacific Coast">
+		<state name="Colima">
+			<city name="Manzanillo"/>
+		</state>
+		<state name="Guerrero">
+			<city name="Acapulco"/>
+			<city name="Ixtapa-Zihuatanejo"/>
+		</state>
+		<state name="Jalisco">
+			<city name="Costalegre"/>
+			<city name="Guadalajara"/>
+			<city name="Puerto Vallarta"/>
+		</state>
+		<state name="Nayarit">
+			<city name="Riviera Nayarit"/>
+			<city name="San Bias"/>
+		</state>
+		<state name="Oaxaca">
+			<city name="Hulatulco"/>
+			<city name="Oaxaca"/>
+			<city name="Puerto Escondido"/>
+		</state>
+		<state name="Sinaloa">
+			<city name="Mazatlan"/>
+		</state>
+	</region>
+	<region name="The Gulf and the South">
+		<state name="Chiapas">
+			<city name="Palenque"/>
+			<city name="San Cristobol De La Casa"/>
+			<city name="Tuxtla Gutierrez"/>
+		</state>
+		<state name="Tabasco">
+			<city name="Villahermosa"/>
+		</state>
+		<state name="Veracruz">
+			<city name="Veracruz"/>
+			<city name="Xalapa"/>
+		</state>
+	</region>
+	<region name="The North">
+		<state name="Chihuahua">
+			<city name="Barrancas del Cobre"/>
+		</state>
+		<state name="Coahuila">
+			<city name="Saltillo"/>
+		</state>
+		<state name="Durango"/>
+		<state name="Nuevo Le&#xF3;n">
+			<city name="Monterrey"/>
+		</state>
+		<state name="Sonora">
+			<city name="Guaymas San Carlos"/>
+			<city name="Hermosillo"/>
+		</state>
+		<state name="Tamaulipas">
+			<city name="Tampico"/>
+		</state>
+		<state name="Zacatecas">
+			<city name="Zacatecas"/>
+		</state>
+	</region>
+	<region name="Baja Peninsula">
+		<state name="Baja California">
+			<city name="Ensenada"/>
+			<city name="Tijuana"/>
+		</state>
+		<state name="Baja California Sur">
+			<city name="La Paz"/>
+			<city name="Loreto"/>
+			<city name="Los Cabos"/>
+		</state>
+	</region>
+	<region name="Yucatan Peninsula">
+		<state name="Campeche"/>
+		<state name="Quintana Roo">
+			<image src="quintata-kanga1.png" type="large"/>
+			<image src="quintata-roo1.png" type="small"/>
+			<description>The state of Quintana Roo contains Cozumel and Canc&#xFA;n.</description>
+			<city latitude="21.147753" longitude="-86.835058" name="Canc&#xFA;n">
+				<airport>MMUN</airport>
+				<description>Canc&#xFA;n is for spring break.</description>
+			</city>
+			<city latitude="20.510023" longitude="-86.94888" name="Cozumel">
+				<airport>MMCZ</airport>
+				<tel>+52-123-456-789</tel>
+				<image src="cozumel_ico.png" type="small"/>
+				<image src="cozumel_ico2.png" type="large"/>
+				<description>Cozumel is a small island off of the east coast of the Yucat&#xE1;n Peninsula.</description>
+				<activity name="Scuba Diving"/>
+				<activity name="Surfing"/>
+			</city>
+			<city name="Riviera Maya"/>
+			<city name="Playa Del Carmen"/>
+		</state>
+		<state name="Yucat&#xE1;n">
+			<city name="Chichen Itza"/>
+			<city name="Merida"/>
+		</state>
+	</region>
+</country>
